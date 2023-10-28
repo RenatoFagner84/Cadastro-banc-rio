@@ -1,9 +1,8 @@
 
-![](https://i.imgur.com/xG74tOh.png)
 
-# Desafio Back-end | Módulo 3
+# Sistema bancário
 
-Seu papel é construir uma RESTful API que permita:
+Essa RESTful API permite:
 
 - Cadastrar Usuário
 - Fazer Login 
@@ -15,7 +14,7 @@ Seu papel é construir uma RESTful API que permita:
 - Cadastrar transação 
 - Editar transação 
 - Remover transação 
-- [Extra] Obter extrato de transações 
+- Obter extrato de transações 
 
 
 **Importante: Lembre-se sempre que cada usuário só pode ver e manipular seus próprios dados e suas próprias transações. Não atender a este pré-requisito é uma falha de segurança gravíssima!**
